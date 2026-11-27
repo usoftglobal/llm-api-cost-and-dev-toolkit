@@ -152,3 +152,13 @@ All tools below run directly in your browser with no signup or API key required:
 - **[LLM GPU VRAM Calculator](https://llmbucket.com/tools/llm-vram-calculator)** — Size model weights, KV cache, and quantization headroom for local GPUs and cloud instances.
 - **[MCP Config Generator](https://llmbucket.com/tools/mcp-config-generator)** — Build validated `mcp.json` configurations for Claude Desktop, Cursor, and Windsurf.
 - **[OpenRouter vs Direct API Comparison](https://llmbucket.com/providers/openrouter-vs-direct)** — Breakdown of gateway fee markups, latency trade-offs, prompt caching support, and failover routing.
+
+
+## Cloud GPU Pricing & Self-Hosting vs. API Break-Even (2026–2027)
+
+When monthly token volume or latency requirements push teams toward dedicated inference, compare on-demand & spot hourly pricing across **H100**, **H200**, **B200**, **A100 80GB**, **MI300X**, and **RTX 5090**:
+
+- [Cloud GPU Price Matrix (H100 / H200 / B200 / MI300X)](https://llmbucket.com/gpu)
+- [NVIDIA H100 80GB Cloud Pricing Benchmarks](https://llmbucket.com/gpu/h100)
+- [RunPod vs. Vast.ai GPU Cloud Comparison](https://llmbucket.com/gpu/runpod-vs-vast-ai)
+- [LLM VRAM & KV-Cache Sizing Calculator](https://llmbucket.com/tools/llm-vram-calculator)
